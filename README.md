@@ -1,2 +1,2 @@
-# Cont-Learning
+# Continual-Learning
 Continual Learning
